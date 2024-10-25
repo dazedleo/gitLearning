@@ -1,7 +1,8 @@
 def sub(i,j):
     if i>j:
         return i-j
-    return j-i
+    else:
+        return j-i
 
 a = int(input())
 b = int(input())
